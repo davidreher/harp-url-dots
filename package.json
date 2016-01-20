@@ -1,0 +1,16 @@
+{
+  "name": "harp-dot-url-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "harp": "harp server public"
+  },
+  "keywords": [],
+  "author": "David Reher",
+  "license": "ISC",
+  "dependencies": {
+    "harp": "^0.20.1"
+  }
+}
